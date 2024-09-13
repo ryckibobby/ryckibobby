@@ -8,22 +8,38 @@ I'm a passionate C++ programmer, continuously working on improving my skills and
 - 💡 I enjoy working on game development, network programming, and algorithm design.
 
 ## 🔧 Technologies & Tools
-- Languages: **C++, C, Python**
-- Game Development: **SFML, SDL**
-- Version Control: **Git, GitHub**
-- Tools: **Visual Studio**
+ - **Languages:** C++, C, Python  
+ - **Game Development:** SFML, SDL  
+ - **Version Control:** Git, GitHub  
+ - **Tools:** Visual Studio  
 
 ## 🎮 Projects I'm working on
-- 🐍 A **Snake Game** with power-ups, achievements, and high scores.
-- 🏰 A **Magical School Simulation** game featuring factions, ranking systems, and spellcasting classes.
-- 🕹️ A **2D Platformer** where players navigate through challenging levels.
-- 🎾 A **Pong Clone** with multiplayer support.
-- 💻 A **Chat Application** built from scratch with C++ for client-server communication.
+- [**Snake Game**](https://github.com/ryckibobby/snake-game): A fun and challenging game with power-ups and achievements.
+- [**Magical School Simulation**](https://github.com/ryckibobby/magical-school-simulation): Dive into a magical world with factions and spellcasting.
+- [**2D Platformer**](https://github.com/ryckibobby/2d-platformer): Navigate through exciting levels in this 2D platformer.
+- [**Pong Clone**](https://github.com/ryckibobby/pong-clone): Enjoy classic pong with multiplayer support.
+- [**Chat Application**](https://github.com/ryckibobby/chat-application): A simple chat app with client-server communication.
+
+## 🏆 Achievements
+- Developed a [real-time multiplayer chat application](#)
+- Achieved Certification: Earned certification in [Advanced C++ Programming](#), demonstrating a high level of expertise.
+- Developed High-Impact Features: Implemented power-ups, achievements, and high scores in the [Snake Game](https://github.com/ryckibobby/snake-game), enhancing gameplay and player engagement.
 
 ## 📈 Goals
 - Sharpen my skills in **C++** and dive deeper into topics like multithreading, memory management, and optimization.
 - Explore **game development frameworks** and build more sophisticated game mechanics.
 - Contribute to open-source C++ projects to gain more experience and collaborate with other developers.
+
+## 📊 GitHub Stats
+![Rycki Harding's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryckibobby&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryckibobby&theme=radical)
+
+## Top Languages & Badges 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryckibobby&theme=radical)
+![C++ Advanced](https://img.shields.io/badge/C%2B%2B-Advanced-%2300C4CC?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Advanced-blue)
+
+
 
 ## 📫 How to Reach Me
 - GitHub: [ryckibobby](https://github.com/ryckibobby)
