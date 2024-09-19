@@ -30,10 +30,6 @@ I'm a passionate C++ programmer, continuously working on improving my skills and
 - Explore **game development frameworks** and build more sophisticated game mechanics.
 - Contribute to open-source C++ projects to gain more experience and collaborate with other developers.
 
-## 📊 GitHub Stats
-![Rycki Harding's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryckibobby&show_icons=true&count_private=true&hide=prs&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryckibobby&theme=radical)
-
 ## Top Languages & Badges 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryckibobby&theme=radical)
 ![C++ Advanced](https://img.shields.io/badge/C%2B%2B-Advanced-%2300C4CC?style=flat&logo=cplusplus&logoColor=white)
