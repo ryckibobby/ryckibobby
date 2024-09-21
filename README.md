@@ -36,7 +36,6 @@ I'm a passionate C++ programmer, continuously working on improving my skills and
 ![Git](https://img.shields.io/badge/Git-Advanced-blue)
 
 
-
 ## 📫 How to Reach Me
 - GitHub: [ryckibobby](https://github.com/ryckibobby)
 - LinkedIn: [Rycki Harding](https://www.linkedin.com/in/ryckiharding)
