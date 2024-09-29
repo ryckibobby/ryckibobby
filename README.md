@@ -8,7 +8,7 @@ I'm a passionate C++ programmer, continuously working on improving my skills and
 - 💡 I enjoy working on game development, network programming, and algorithm design.
 
 ## 🔧 Technologies & Tools
- - **Languages:** C++, C, Python  
+ - **Languages:** C++, C
  - **Game Development:** SFML, SDL  
  - **Version Control:** Git, GitHub  
  - **Tools:** Visual Studio  
