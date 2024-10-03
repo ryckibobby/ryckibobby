@@ -1,6 +1,6 @@
 # Hi there, I'm Rycki Harding (aka ryckibobby) 👋
 
-I'm a passionate C++ programmer, continuously working on improving my skills and exploring new challenges in the world of software development. 
+I'm a passionate C++ programmer, continuously working on improving my skills and exploring new challenges in the world of software development.
 
 ## 🚀 About Me
 - 🌱 I’m currently deepening my knowledge of C++ and diving into more advanced concepts.
